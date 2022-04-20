@@ -1,0 +1,15 @@
+{
+  "clientToken": "5e23c728-dc61-4c3a-8334-8d8a939dd842",
+  "accounts": {
+    "f41cbad280f646d4ad125ab517069fe8": {
+      "username": "Roxass",
+      "userID": "Roxass",
+      "displayName": "Roxass",
+      "uuid": "f41cbad280f646d4ad125ab517069fe8",
+      "type": "free",
+      "premiumAccount": false
+    }
+  },
+  "selectedAccountUUID": "f41cbad280f646d4ad125ab517069fe8",
+  "freeAccountUUID": "f41cbad280f646d4ad125ab517069fe8"
+}

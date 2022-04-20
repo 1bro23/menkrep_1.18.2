@@ -251,9 +251,33 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhuthospital": {
+    "criteria": {
+      "has_items": "2022-04-20 20:48:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2022-04-20 20:48:29 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2022-04-20 21:14:44 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2022-04-17 15:58:12 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2022-04-20 20:53:19 +0700"
     },
     "done": true
   },
@@ -269,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2022-04-20 20:53:35 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2022-04-19 14:07:55 +0700"
@@ -277,6 +307,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2022-04-20 20:19:44 +0700",
       "bread": "2022-04-17 16:01:37 +0700",
       "rotten_flesh": "2022-04-20 15:27:18 +0700"
     },
@@ -558,6 +589,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2022-04-20 20:48:29 +0700"
+    },
+    "done": true
+  },
   "minecolonies:recipes/minecolonies/blockhutblacksmith": {
     "criteria": {
       "has_items": "2022-04-20 16:19:11 +0700"
@@ -762,6 +799,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2022-04-20 20:48:29 +0700"
+    },
+    "done": true
+  },
   "minecolonies:recipes/minecolonies/supplycampdeployer": {
     "criteria": {
       "has_chest": "2022-04-19 14:21:40 +0700"
@@ -770,6 +813,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2022-04-20 20:27:32 +0700",
       "minecraft:skeleton": "2022-04-20 15:31:04 +0700",
       "minecraft:vindicator": "2022-04-17 15:58:11 +0700",
       "minecraft:spider": "2022-04-19 14:17:52 +0700",
@@ -822,6 +866,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2022-04-19 14:15:59 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2022-04-20 20:48:29 +0700"
     },
     "done": true
   },
@@ -921,6 +971,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutguardtower": {
+    "criteria": {
+      "has_items": "2022-04-20 21:14:44 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2022-04-17 15:44:09 +0700"
@@ -954,6 +1010,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-04-17 16:12:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2022-04-20 20:48:29 +0700"
     },
     "done": true
   },
@@ -993,9 +1055,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2022-04-20 20:53:35 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2022-04-17 16:22:49 +0700"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutarchery": {
+    "criteria": {
+      "has_items": "2022-04-20 21:14:44 +0700"
     },
     "done": true
   },
@@ -1065,6 +1139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2022-04-20 21:03:55 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2022-04-19 14:38:05 +0700"
@@ -1122,6 +1202,12 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-04-17 16:16:19 +0700"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_warehouse": {
+    "criteria": {
+      "warehouse": "2022-04-20 20:21:57 +0700"
     },
     "done": true
   },
@@ -1212,6 +1298,13 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2022-04-17 15:55:55 +0700"
+    },
+    "done": true
+  },
+  "minecolonies:production/post_and_stash": {
+    "criteria": {
+      "postbox": "2022-04-20 21:42:23 +0700",
+      "stash": "2022-04-20 21:42:20 +0700"
     },
     "done": true
   },
@@ -1507,6 +1600,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2022-04-20 20:48:22 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-04-20 15:48:48 +0700"
@@ -1576,6 +1675,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2022-04-19 14:15:59 +0700"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutchickenherder": {
+    "criteria": {
+      "has_items": "2022-04-20 20:53:19 +0700"
     },
     "done": true
   },

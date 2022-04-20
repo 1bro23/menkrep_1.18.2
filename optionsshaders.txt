@@ -1,4 +1,4 @@
-#Sun Apr 17 15:47:00 WIB 2022
+#Wed Apr 20 19:43:47 WIB 2022
 handDepthMul=0.125
 TexMinFilB=0
 oldLighting=default
@@ -6,7 +6,7 @@ TexMagFilN=0
 tweakBlockDamage=false
 cloudShadow=false
 TexMagFilS=0
-shaderPack=BSL_v8.1.02.1.zip
+shaderPack=SEUS-Renewed-v1.0.1.zip
 TexMinFilN=0
 specularMapEnabled=true
 normalMapEnabled=true

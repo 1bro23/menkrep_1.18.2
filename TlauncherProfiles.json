@@ -1,15 +1,15 @@
 {
-  "clientToken": "5e23c728-dc61-4c3a-8334-8d8a939dd842",
+  "clientToken": "aad33501-ad8a-48b1-8665-6d3ac9a8c082",
   "accounts": {
-    "f41cbad280f646d4ad125ab517069fe8": {
+    "5744db9709244ba0a373b904d3cd35fb": {
       "username": "Roxass",
       "userID": "Roxass",
       "displayName": "Roxass",
-      "uuid": "f41cbad280f646d4ad125ab517069fe8",
+      "uuid": "5744db9709244ba0a373b904d3cd35fb",
       "type": "free",
       "premiumAccount": false
     }
   },
-  "selectedAccountUUID": "f41cbad280f646d4ad125ab517069fe8",
-  "freeAccountUUID": "f41cbad280f646d4ad125ab517069fe8"
+  "selectedAccountUUID": "5744db9709244ba0a373b904d3cd35fb",
+  "freeAccountUUID": "5744db9709244ba0a373b904d3cd35fb"
 }
